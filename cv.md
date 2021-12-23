@@ -1,10 +1,12 @@
-**Maryna Nashchokina**
-**Contacts:**
-*Tel: +375255443891
-*E-mail: sanusya156156@gmail.com
-**About myself**
-I work as a main biologist in the medical product development department. Recently became interested in the Front-End Development. I have no experience in this sphere at the moment, but I really want to know more. I really hope that RSSchool will help me!
-**Code example:**
+# Maryna Nashchokina
+# Contacts:
+* Tel: +375255443891
+* E-mail: sanusya156156@gmail.com
+# About myself
+I work as a main biologist in the medical product development department. Recently became interested in the Front-End Development. 
+
+I have no experience in this sphere at the moment, but I really want to know more. I really hope that RSSchool will help me!
+# Code example:
 
 ``` .button {
     display: block;
@@ -26,12 +28,12 @@ I work as a main biologist in the medical product development department. Recent
     outline: none;
     }
  ```
-**Work experience:**
+# Work experience:
 I haven't experience yet
-**Education**
+# Education
 *Bachelor, BSU, Minsk
 *WEB-разработчик 2021, udemy.com
-**Languages**
-*Russian
-*Belarusian
-*English: I don't know my English level. I can speak with native speakers and understand them. I can have a conversation at the everyday level
+# Languages
+* Russian
+* Belarusian
+* English: I don't know my English level. I can speak with native speakers and understand them. I can have a conversation at the everyday level
