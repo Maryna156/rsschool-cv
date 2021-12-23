@@ -35,3 +35,4 @@ I haven't experience yet
 *Russian
 *Belarusian
 *English
+About my English: I don't know my English level. I can speak with native speakers and understand them. I can have a conversation at the everyday level
