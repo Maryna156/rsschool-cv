@@ -31,8 +31,8 @@ I have no experience in this sphere at the moment, but I really want to know mor
 # Work experience:
 I haven't experience yet
 # Education
-*Bachelor, BSU, Minsk
-*WEB-разработчик 2021, udemy.com
+* Bachelor, BSU, Minsk
+* WEB-разработчик 2021, udemy.com
 # Languages
 * Russian
 * Belarusian
