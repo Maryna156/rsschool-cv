@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+}
+header  {
+    background-color: #C86435;
+    padding: 20px 0;
+}
+footer {
+    background-color: #C86435;
+} 
+body {
+    font: 16px 'Roboto';
+    width: 620px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.about_me {
+    line-height: 1.5;
+}
+.name, .photo { 
+    display: inline-block;
+} 
+
+.name {
+    margin-left: 30px;
+}
+
+p {
+    text-align: left;
+    color: #34495e;
+}
+
+img {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+   
+footer {
+    text-align: center;
+    line-height: 1.5;
+}
+
+ul {
+    padding-left: 30px;
+}
